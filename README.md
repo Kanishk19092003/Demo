@@ -1,4 +1,4 @@
 # Demo
 My first github repository
 <br>
-Author- Kanishk Yadav
+Author- Kanishk Yadav(Student)
